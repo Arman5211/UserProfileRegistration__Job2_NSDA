@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.UserProfileRegistration__DIPTI_ICT_AMAD_L4_04_21" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.UserProfileRegistration__DIPTI_ICT_AMAD_L4_04_21" parent="Base.Theme.UserProfileRegistration__DIPTI_ICT_AMAD_L4_04_21" />
+</resources>
